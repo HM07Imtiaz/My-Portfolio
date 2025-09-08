@@ -1,4 +1,5 @@
 import profileImage from '../assets/hm.jpg';
+import cv from '../assets/CV_Template.pdf';
 
 export default function Home() {
   return (
@@ -20,9 +21,9 @@ export default function Home() {
           and mobile application development while continuously learning and adapting to new technologies.
         </p>
         <a
-          href="/resume.pdf"
+          href={cv}
           target="_blank"
-          rel="noopener noreferrer"
+          rel="noopener noreferrer"                        
           className="inline-block bg-blue-600 text-white px-6 py-3 rounded-lg shadow-lg hover:bg-blue-700 transition"
         >
           View Resume

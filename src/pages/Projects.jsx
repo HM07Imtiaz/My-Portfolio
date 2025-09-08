@@ -11,7 +11,7 @@ export default function Projects() {
     },
     {
       name: "My Portfolio",
-      github: "https://github.com/your-github-username/my-portfolio",
+      github: "https://github.com/HM07Imtiaz/My-Portfolio",
       description:
         "Personal portfolio website showcasing my skills, projects, and achievements. Built with React and TailwindCSS, deployed on Vercel.",
       tech: ["React", "TailwindCSS", "JavaScript"]
