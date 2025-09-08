@@ -3,21 +3,21 @@ import { FaGithub } from "react-icons/fa";
 export default function Projects() {
   const projects = [
     {
-      name: "Research Lab Management System",
+      name: "Research Lab Management System — Team Project",
       github: "https://github.com/HM07Imtiaz/Research-Lab-Management-System",
       description:
         "A web-based platform to streamline research workflows. Features supervisor/researcher management, file sharing, meeting scheduling, and progress tracking for academic research teams.",
       tech: ["HTML", "CSS", "PHP", "MySQL", "XAMPP"]
     },
     {
-      name: "My Portfolio",
+      name: "My Portfolio — Individual Project",
       github: "https://github.com/HM07Imtiaz/My-Portfolio",
       description:
         "Personal portfolio website showcasing my skills, projects, and achievements. Built with React and TailwindCSS, deployed on Vercel.",
       tech: ["React", "TailwindCSS", "JavaScript"]
     },
     {
-      name: "TuitionLinkHub (Mobile App)",
+      name: "TuitionLinkHub (Mobile App) — Individual Project",
       github: "https://github.com/HM07Imtiaz/TuitionManagement",
       description:
         "A full-stack tuition management mobile app built for students, teachers, and guardians. Supports account creation, post management, comments, reactions, location search, and media storage. Integrated GraphQL, TensorFlow, and Google Maps for enhanced features.",
