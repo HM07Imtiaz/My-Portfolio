@@ -1,21 +1,21 @@
 export default function Education() {
   const educationData = [
     {
-      institution: "University of Chittagong, Chattogram",
-      degree: "B.Sc. in Engineering, Department of Computer Science and Engineering",
-      details: "Expected Graduation: September 2025. Completed 8 semesters (Final result pending).",
+      institution: "University of Chittagong",
+      degree: "B.Sc. Engineering, Department of Computer Science and Engineering",
+      details: "CGPA: 3.65",
       year: "2025",
     },
     {
       institution: "Bangladesh Nou-Bahini College, Chattogram",
       degree: "HSC (Science)",
-      details: "2019 — GPA: 5.00",
+      details: "GPA: 5.00",
       year: "2019",
     },
     {
       institution: "Al-Zaber Institute, Chattogram",
       degree: "SSC (Science)",
-      details: "2017 — GPA: 5.00",
+      details: "GPA: 5.00",
       year: "2017",
     },
   ];

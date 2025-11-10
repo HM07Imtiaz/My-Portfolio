@@ -13,7 +13,6 @@ export default function Skills() {
     ],
     Databases: ["MySQL", "PostgreSQL", "Firebase"],
     "Developer Tools & Platforms": [
-      "Git",
       "GitHub",
       "VS Code",
       "Android Studio",
@@ -34,6 +33,7 @@ export default function Skills() {
       "Teamwork",
       "Adaptability",
       "Communication",
+      "Research Orientation",
       "Eager to Learn",
     ],
   };

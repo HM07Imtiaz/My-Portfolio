@@ -1,5 +1,5 @@
-import profileImage from '../assets/hm.jpg';
-import cv from '../assets/CV_Template.pdf';
+import profileImage from '../assets/HM1.jpg';
+import cv from '../assets/HM_Resume.pdf';
 
 export default function Home() {
   return (
@@ -16,9 +16,10 @@ export default function Home() {
           CSE Student | Aspiring Web & Mobile App Developer
         </h2>
         <p className="text-lg text-gray-700 leading-relaxed mb-8">
-          Motivated and detail-oriented Computer Science graduate with strengths in idea generation,
-          teamwork, and project management. Passionate about applying technical knowledge in software
-          and mobile application development while continuously learning and adapting to new technologies.
+          Motivated and detail-oriented Computer Science graduate with strengths in idea generation, teamwork, and project
+          management. Passionate about Data Science, Machine Learning, and AI-driven solutions, with hands-on experience
+          in software and mobile app development. Eager to apply technical and research knowledge to solve real-world data
+          problems and continuously learn new technologies.
         </p>
         <a
           href={cv}

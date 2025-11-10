@@ -3,7 +3,7 @@ export default function Publications() {
     {
       title:
         "A Hybrid Deep Learning and Handcrafted Feature Fusion Framework for Tea Leaf Disease Classification with Explainable AI",
-      degree: "B.Sc. in Engineering Thesis",
+      degree: "B.Sc. Engineering Thesis",
       institution: "University of Chittagong, Department of Computer Science and Engineering",
       year: "2025",
       abstract: `This thesis presents a lightweight hybrid model for automated tea leaf disease classification, 
